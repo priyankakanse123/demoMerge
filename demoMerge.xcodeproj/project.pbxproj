@@ -15,6 +15,7 @@
 		0A020B0D1C72DBA000838680 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A020B0B1C72DBA000838680 /* LaunchScreen.storyboard */; };
 		0A020B181C72DBA000838680 /* demoMergeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A020B171C72DBA000838680 /* demoMergeTests.swift */; };
 		0A020B231C72DBA000838680 /* demoMergeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A020B221C72DBA000838680 /* demoMergeUITests.swift */; };
+		0A020B311C72DE6700838680 /* secondvc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A020B301C72DE6700838680 /* secondvc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0A020B1E1C72DBA000838680 /* demoMergeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = demoMergeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A020B221C72DBA000838680 /* demoMergeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demoMergeUITests.swift; sourceTree = "<group>"; };
 		0A020B241C72DBA000838680 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A020B301C72DE6700838680 /* secondvc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = secondvc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				0A020AFF1C72DBA000838680 /* AppDelegate.swift */,
 				0A020B011C72DBA000838680 /* ViewController.swift */,
 				0A020B031C72DBA000838680 /* Main.storyboard */,
+				0A020B301C72DE6700838680 /* secondvc.swift */,
 				0A020B091C72DBA000838680 /* Assets.xcassets */,
 				0A020B0B1C72DBA000838680 /* LaunchScreen.storyboard */,
 				0A020B0E1C72DBA000838680 /* Info.plist */,
@@ -264,6 +267,7 @@
 			files = (
 				0A020B081C72DBA000838680 /* demoMerge.xcdatamodeld in Sources */,
 				0A020B021C72DBA000838680 /* ViewController.swift in Sources */,
+				0A020B311C72DE6700838680 /* secondvc.swift in Sources */,
 				0A020B001C72DBA000838680 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

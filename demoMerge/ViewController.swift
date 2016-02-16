@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         
         
         print ("hello")
+        
+        print ("hello second commit")
     }
 
     override func didReceiveMemoryWarning() {
